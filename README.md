@@ -1,8 +1,7 @@
-# Projeto SER 347
-_*Sazonalidade de cheias – Seasonality Index*_
+# Sazonalidade de cheias – Seasonality Index
 
-Ana Calderaro
-Andréa Lima
-Felício Cassalho
+* Ana Calderaro
+* Andréa Lima
+* Felício Cassalho
 
 
